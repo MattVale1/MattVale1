@@ -2,6 +2,6 @@
 
 🎮 I have published 5 games on Steam [here](https://store.steampowered.com/curator/33022111).
 
-🎮 My current project is a game codenamed "Space Nomads" (private repo, will ink closer to release).
+🎮 My current projects are codenamed "Space Nomads" and "Cosy Cafe".
 
 📚 I frequently update my [personal DLL](https://github.com/MattVale1/RPSLib), a common codebase for all my Unity projects, check it out, you might find it useful!
