@@ -1,5 +1,4 @@
-## 👋 Hi, I'm Matt. I'm a professional game developer by day and a solo developer by night.
-
+## 👋 Hi, I'm Matt. Professional game developer by day and solo developer by night. 
 
 ### 👨‍💻 Professional work:
 
