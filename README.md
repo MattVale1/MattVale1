@@ -12,4 +12,4 @@
 
 🎮 My current project is codenamed [Space Nomads](https://matthewvaleblog.wordpress.com/current-project/).
 
-📚 I frequently update my [personal DLL](https://github.com/MattVale1/RPSLib), a common codebase for all my Unity projects, check it out, you might find it useful!
+📚 I often update my [personal DLL](https://github.com/MattVale1/RPSLib), a common codebase for my Unity projects.
