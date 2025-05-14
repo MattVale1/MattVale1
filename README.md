@@ -1,3 +1,5 @@
+![store_spotlight_banner](https://github.com/user-attachments/assets/227e2390-ef4f-4706-b455-ea21322ceb65)
+
 ## 👋 Hi, I'm Matt. Professional game developer specialising in Unity and C#.
 
 ### 👨‍💻 Professional work:
@@ -13,5 +15,3 @@
 🎮 My current project is codenamed [Space Nomads](https://matthewvaleblog.wordpress.com/current-project/).
 
 📚 I often update my [personal DLL and Unity Package](https://github.com/MattVale1/RPSLib), a common codebase for my Unity projects.
-
-![header_capsule](https://github.com/user-attachments/assets/b9fbc39f-f7a7-46af-b700-874d285816a5)
