@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Matt. Professional game developer by day and solo developer by night. 
+## 👋 Hi, I'm Matt. Professional game developer specialising in Unity and C#.
 
 ### 👨‍💻 Professional work:
 
@@ -12,4 +12,4 @@
 
 🎮 My current project is codenamed [Space Nomads](https://matthewvaleblog.wordpress.com/current-project/).
 
-📚 I often update my [personal DLL](https://github.com/MattVale1/RPSLib), a common codebase for my Unity projects.
+📚 I often update my [personal DLL and Unity Package](https://github.com/MattVale1/RPSLib), a common codebase for my Unity projects.
