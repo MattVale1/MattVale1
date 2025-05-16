@@ -16,4 +16,4 @@
 
 📚 I often update my [personal DLL and Unity Package](https://github.com/MattVale1/RPSLib), a common codebase for my Unity projects.
 
-💼 You can visit my portfolio website [here](https://www.matthewvale.me/)!
+💼 You can visit my portfolio website [here](https://www.matthewvale.me/) and my personal blog [here](https://matthewvaleblog.wordpress.com/)!
