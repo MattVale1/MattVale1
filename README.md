@@ -1,6 +1,6 @@
 ![store_spotlight_banner](https://github.com/user-attachments/assets/227e2390-ef4f-4706-b455-ea21322ceb65)
 
-### 👋 Hi, I'm Matt. Professional game developer specialising in Unity and C#.
+## 👋 Hi, I'm Matt. Professional game developer specialising in Unity and C#.
 
 ## 👨‍💻 Professional work:
 
