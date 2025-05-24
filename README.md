@@ -19,9 +19,9 @@
 💼 You can visit my portfolio website [here](https://www.matthewvale.me/) and my personal blog [here](https://matthewvaleblog.wordpress.com/)!
 
 ## 📚 Tech Stack:
-<img src="https://github.com/user-attachments/assets/d9e2f1b2-1eca-4ed8-903a-763bb7b63dda" width="64">
-<img src="https://github.com/user-attachments/assets/9f1989e4-e5be-4d13-b787-8280b462872b" width="64">
-<img src="https://github.com/user-attachments/assets/8ee1413e-24fe-46e7-b802-bc3ec7b2f24b" width="64">
-<img src="https://github.com/user-attachments/assets/b51ee93d-d3ce-4a00-b798-b32112197bc3" width="64">
-<img src="https://github.com/user-attachments/assets/bd48448e-03ec-49ea-ad0a-04b2099aa23f" width="64">
-<img src="https://github.com/user-attachments/assets/e2c3208a-6329-4fad-91f9-953d05be4b9c" width="64">
+<img src="https://github.com/user-attachments/assets/d9e2f1b2-1eca-4ed8-903a-763bb7b63dda" width="50">
+<img src="https://github.com/user-attachments/assets/9f1989e4-e5be-4d13-b787-8280b462872b" width="50">
+<img src="https://github.com/user-attachments/assets/8ee1413e-24fe-46e7-b802-bc3ec7b2f24b" width="50">
+<img src="https://github.com/user-attachments/assets/b51ee93d-d3ce-4a00-b798-b32112197bc3" width="50">
+<img src="https://github.com/user-attachments/assets/bd48448e-03ec-49ea-ad0a-04b2099aa23f" width="50">
+<img src="https://github.com/user-attachments/assets/e2c3208a-6329-4fad-91f9-953d05be4b9c" width="50">
